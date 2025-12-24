@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "ia",
+  "base_artist": "菅原圭",
+  "createdAt": "2025-12-24T09:28:14.361764Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Alice in N.Y. (feat. Kagamine Len&Kagamine Rin&Hatsune Miku&Megurine Luka&MEIKO&KAITO&Gackpoid&Megpoid&MAYU&IA)",
+      "artist": "Hitoshizuku & Yama",
+      "has_synced": false,
+      "path": "select/01_Alice_in_N.Y._(feat._Kagamine_Len&Kagamine_Rin&Hatsune_Miku&Megurine_Luka&MEIKO&_Hitoshizuku_&_Yama.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Invisible Lovers (feat. IA)",
+      "artist": "TeddyLoid",
+      "has_synced": true,
+      "path": "select/02_Invisible_Lovers_(feat._IA)_TeddyLoid.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ponkotsu Distorker (ft. IA) [ポンコツディストーカー]",
+      "artist": "sasakure.UK",
+      "has_synced": false,
+      "path": "select/03_Ponkotsu_Distorker_(ft._IA)_[ポンコツディストーカー]_sasakure.UK.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "CITRUS (feat. IA & ONE)",
+      "artist": "Orangestar, IA, ONE",
+      "has_synced": true,
+      "path": "select/04_CITRUS_(feat._IA_&_ONE)_Orangestar,_IA,_ONE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "キミノヨゾラ哨戒班 (feat. IA)",
+      "artist": "Orangestar, IA",
+      "has_synced": true,
+      "path": "select/05_キミノヨゾラ哨戒班_(feat._IA)_Orangestar,_IA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "心象蜃気楼 (feat. IA)",
+      "artist": "Orangestar, IA",
+      "has_synced": true,
+      "path": "select/06_心象蜃気楼_(feat._IA)_Orangestar,_IA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "時ノ雨、最終戦争 (feat. IA)",
+      "artist": "Orangestar, IA",
+      "has_synced": true,
+      "path": "select/07_時ノ雨、最終戦争_(feat._IA)_Orangestar,_IA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "EGOLOID feat.GUMI・IA・MAYU",
+      "artist": "Diarays",
+      "has_synced": false,
+      "path": "select/08_EGOLOID_feat.GUMI・IA・MAYU_Diarays.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Aozora no Rhapsody - IA ROCKS Full Version",
+      "artist": "Dj-Jo",
+      "has_synced": false,
+      "path": "select/09_Aozora_no_Rhapsody_-_IA_ROCKS_Full_Version_Dj-Jo.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Egao Ni Naru (Feat. IA & Hatsune Miku) [dj-Jo Remix] [Full]",
+      "artist": "Dj-Jo",
+      "has_synced": true,
+      "path": "select/10_Egao_Ni_Naru_(Feat._IA_&_Hatsune_Miku)_[dj-Jo_Remix]_[Full]_Dj-Jo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "GATE ~Sore wa Akatsuki no you ni~ (feat. IA) [dj-Jo Remix]",
+      "artist": "dj-Jo",
+      "has_synced": false,
+      "path": "select/11_GATE_~Sore_wa_Akatsuki_no_you_ni~_(feat._IA)_[dj-Jo_Remix]_dj-Jo.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Let Me Hear (feat. IA) [dj-Jo Remix] [TV Size]",
+      "artist": "Dj-Jo",
+      "has_synced": true,
+      "path": "select/12_Let_Me_Hear_(feat._IA)_[dj-Jo_Remix]_[TV_Size]_Dj-Jo.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "HΨ=世界創造=EΨ feat.IA,GUMI",
+      "artist": "黒猫アンティーク(a.k.a.cosMo@暴走P)",
+      "has_synced": true,
+      "path": "select/13_HΨ=世界創造=EΨ_feat.IA,GUMI_黒猫アンティーク(a.k.a.cosMo@暴走P).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ref-Rain feat.IA",
+      "artist": "Selep",
+      "has_synced": false,
+      "path": "select/14_Ref-Rain_feat.IA_Selep.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ヘイセイカタクリズム feat.IA",
+      "artist": "じっぷす",
+      "has_synced": true,
+      "path": "select/15_ヘイセイカタクリズム_feat.IA_じっぷす.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Aozora no Rhapsody - IA ROCKS TV Size",
+      "artist": "Dj-Jo",
+      "has_synced": true,
+      "path": "select/16_Aozora_no_Rhapsody_-_IA_ROCKS_TV_Size_Dj-Jo.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Vine Valu', Imi Ia Calu'",
+      "artist": "Daniel Iancu",
+      "has_synced": false,
+      "path": "select/17_Vine_Valu',_Imi_Ia_Calu'_Daniel_Iancu.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I Think Iâ€™m Going Mad",
+      "artist": "The Rolling Stones",
+      "has_synced": true,
+      "path": "select/18_I_Think_Iâ€TMm_Going_Mad_The_Rolling_Stones.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ia",
+      "artist": "菅原 圭",
+      "has_synced": false,
+      "path": "select/pl_01_ia_菅原_圭.txt"
+    }
+  ]
+}
